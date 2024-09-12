@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myproj
-        image: sandeepsingh2212/project2
+        image: sandeepsingh2212/img1
         ports:
         - containerPort: 80
